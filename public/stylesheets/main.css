@@ -1,6 +1,10 @@
 
 .thumbnail img {
     width: 100%;
+    
+}
+
+#index-image {
     height: 250px !important;
 }
 
